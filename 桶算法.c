@@ -1,5 +1,5 @@
-#define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
+//计数排序
 int main()
 {
 	int a[101];
